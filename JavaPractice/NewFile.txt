@@ -1,1 +1,2 @@
 Added a txt file in Git directly in master branch by Rkkamila.
+Added 2nd Line for creatinting conflict.
